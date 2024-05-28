@@ -1,4 +1,4 @@
-package com.example.oauth2.task;
+package com.example.oauth2.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
